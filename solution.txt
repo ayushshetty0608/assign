@@ -1,0 +1,12 @@
+ git init
+ git add
+ git checkout -b
+ git merge
+ git log
+ git commit
+ git diff
+ git status
+ git push -u
+ git remote add
+ git clone  
+ 
